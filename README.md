@@ -1,8 +1,8 @@
 # Project-Portfolio
-* [SQL]
-* [Tableau]
-* [Excel]
-* [Python]
+* [SQL](#sql)
+* [Tableau](#tableau)
+* [Excel](#excel)
+* [Python](#python)
 
 ---
 ## SQL
