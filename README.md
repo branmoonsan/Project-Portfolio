@@ -1,4 +1,4 @@
-# Project-Portfolio
+# 🚀 Project-Portfolio
 * [SQL](#sql)
 * [Tableau](#tableau)
 * [Excel](#excel)
