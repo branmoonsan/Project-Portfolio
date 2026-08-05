@@ -11,7 +11,7 @@
 | Sr. | Project Link | Analysis | Project Description | 
 |---|---|---|---|
 |1.| [Bank Transaction Data Analysis](https://github.com/branmoonsan/Bank-Transaction-Data-Analysis) | Data cleaning, Descriptive, Customer segmentation, Trend, Ranking | Analyzed bank transaction data using SQL and PostgreSQL to uncover customer spending patterns, transaction trends, and account behaviors. Performed data cleaning, data type conversion, and exploratory analysis using joins, aggregations, window functions, and Common Table Expressions (CTEs) to generate business insights. | 
-|2.| [Data Job Market Analysis]([https://github.com/branmoonsan/Bank-Transaction-Data-Analysis](https://github.com/branmoonsan/SQL_Project_Data_Job_Analysis)) | Data Extraction & Joining, Ranking, Grouping | Analyzed the data analyst job market of 2023 using the dataset from Luke Barousse. The project analyzed top-paying jobs and in-demand skills for data analysts. |  
+|2.| [Data Job Market Analysis](https://github.com/branmoonsan/SQL_Project_Data_Job_Analysis) | Data Extraction & Joining, Ranking, Grouping | Analyzed the data analyst job market of 2023 using the dataset from Luke Barousse. The project analyzed top-paying jobs and in-demand skills for data analysts. |  
 
 ***
 
