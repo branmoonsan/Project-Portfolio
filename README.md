@@ -39,4 +39,4 @@
 
 | Sr. | Project Link | Skills & Tools | Project Description | 
 |---|---|---|---|
-|1.| TBA | N/A | N/A |  
+|1.| [Credit Default Predictive Model](https://github.com/branmoonsan/Credit-Default-Predictive-Model) | Python, Pandas, NumPy, Seaborn, Scikit-learn, Exploratory Data Analysis (EDA), Logistic Regression, Decision Tree, Random Forest | Developed machine learning models to predict creditworthiness using the German Credit dataset. Performed exploratory data analysis, data visualization, model training, and performance evaluation. Applied Logistic Regression, Decision Tree, and Random Forest algorithms, with Grid Search and Randomized Search for hyperparameter optimization. | 
